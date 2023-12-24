@@ -1,4 +1,4 @@
-package com.peyman.functional;
+package com.peyman.functional.stream;
 
 @FunctionalInterface
 public interface PlusOperation<T extends Number> {

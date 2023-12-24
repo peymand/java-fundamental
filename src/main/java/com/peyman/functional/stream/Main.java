@@ -1,9 +1,8 @@
-package com.peyman.functional;
+package com.peyman.functional.stream;
 
 import com.peyman.collections.DummyClass;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.function.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
